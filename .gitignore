@@ -1,0 +1,9 @@
+
+.gradle
+.idea
+# 프로젝트 제외 경로
+/build/
+/out/
+/out/production/classes/
+/out/test/classes/
+/src/main/resources/static/js/
